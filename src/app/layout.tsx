@@ -13,8 +13,8 @@ import {
 import Providers from "@/app/Providers";
 
 export const metadata: Metadata = {
-  title: "SDK",
-  description: "SDK",
+  title: "Template6",
+  description: "Template6",
   icons: [{ rel: "icon", url: "/images/home/hero/logo.png", sizes: "11x11" }],
 };
 
